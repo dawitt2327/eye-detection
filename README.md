@@ -1,8 +1,9 @@
-Eye Detection
+#Eye Detection
+
 It is going to detect your eyes and count the number of eyes
-Modules Used
+#Modules Used
 opencv
-How it works
+#How it works
 First you have to go to the path where your py file is using your cmd or terminal
 Then you have to type python eyes.py to run the file
 Then it will convert your live video frame by frame into grayscale
