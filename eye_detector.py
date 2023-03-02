@@ -32,3 +32,4 @@ while(capture.isOpened()):
         break
 capture.release()
 cv2.destroyAllWindows()
+#updated
